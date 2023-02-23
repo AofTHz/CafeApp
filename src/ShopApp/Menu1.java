@@ -58,7 +58,7 @@ public class Menu1 extends javax.swing.JFrame {
         jLabel3.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
         jLabel3.setText("Login Database");
 
-        jPanel2.setBackground(new java.awt.Color(153, 153, 255));
+        jPanel2.setBackground(new java.awt.Color(153, 255, 0));
 
         jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ShopApp/database-icon2.png"))); // NOI18N
 
